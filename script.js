@@ -112,14 +112,14 @@ function changeImageCategory(category) {
     ];
   } else if (category === 'icecekButton') {
     imageArray = [
-      { src: 'icecek1.jpg', name: 'İçecek 1', price: '₺20' },
-      { src: 'icecek2.jpg', name: 'İçecek 2', price: '₺25' },
-      { src: 'icecek3.jpg', name: 'İçecek 3', price: '₺30' },
-      { src: 'icecek4.jpg', name: 'İçecek 4', price: '₺35' },
-      { src: 'icecek1.jpg', name: 'İçecek 1', price: '₺20' },
-      { src: 'icecek2.jpg', name: 'İçecek 2', price: '₺25' },
-      { src: 'icecek3.jpg', name: 'İçecek 3', price: '₺30' },
-      { src: 'icecek4.jpg', name: 'İçecek 4', price: '₺35' },
+      { src: 'https://www.keep-calm-and-eat-ice-cream.com/wp-content/uploads/2022/06/San-Sebastian-cheescake-hero-09.jpg', name: 'San Sebastian Homemade', price: '150 ₺' },
+      { src: 'https://www.flavoursholidays.co.uk/wp-content/uploads/2020/07/Tiramisu.jpg', name: 'Tiramisu', price: '110 ₺' },
+      { src: 'https://dosegida.com/Content/Images/Urunler/Framboazli-Mono-Pasta/frambuazli-mono-pasta-dose-gida.jpg', name: 'Mono Frambuaz', price: '110 ₺' },
+      { src: 'https://static.ticimax.cloud/9247/uploads/urunresimleri/buyuk/polka--d28f.jpg', name: 'Polka', price: '140 ₺' },
+      { src: 'https://images.aws.nestle.recipes/resized/5b069c3ed2feea79377014f6766fcd49_Original_NTH_Chocolate_Chip_Cookie_1080_850.jpg', name: 'Cookie', price: '80 ₺' },
+      { src: 'https://cafefernando.com/images/mozaik-pasta-dilim.jpg', name: 'Mozaik', price: '110 ₺' },
+      { src: 'https://mealsbymolly.com/wp-content/uploads/coffee-cheesecake.jpg', name: 'CheeseCake', price: '110 ₺' },
+      { src: 'https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/7b469d4538bb9e2667c540f6c0310f33/Derivates/2cab109c744bce1e7184ce92905d1ecf8295ed08.jpg', name: 'Magnolia', price: '120 ₺' },
     ];
   }
 
